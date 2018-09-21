@@ -1,24 +1,4 @@
-#image {
-	width: 400px;
-	height: 200px;
-	position: absolute;
-	right: 590px;
-	top: 100px;
-	border: solid white 2px;
-}	
 
-#options {
-	list-style-type: none;
-	position: absolute;
-    bottom: 0;
-    width: 90.5%;
-    height: 200px;
-    text-align: center;	
-}
-
-h1 {
-	color: white;
-}
 
 button {
 	height: 50px;
@@ -29,11 +9,7 @@ button {
 	border-color: solid black;
 }
 
-#title {
-	text-align: center;
-	font-size: 30px;
-	font-family: sans-serif;
-}
+
 
 #text {
 	background-color: black;
