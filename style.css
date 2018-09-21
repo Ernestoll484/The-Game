@@ -1,0 +1,23 @@
+
+
+button {
+	height: 50px;
+	width: 125px;
+	margin: 25px;
+	background-color: black;
+	color: white;
+	border-color: solid black;
+}
+
+
+
+#text {
+	background-color: black;
+	color: white;
+	border: solid white 2px;
+	position: absolute;
+	left: 500px;
+	top: 330px;
+	width: 480px;
+	height: 200px;
+}
